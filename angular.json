@@ -46,7 +46,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "../mon-projet-angular/node_modules/bootstrap/dist/css/bootstrap.css",
+              "../mon-projet-angular/src/styles.scss"
             ],
             "scripts": [],
             "es5BrowserSupport": true
